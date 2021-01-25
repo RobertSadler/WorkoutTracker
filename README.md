@@ -6,6 +6,7 @@ Jan 12, 2021
 # Project Step 2
 ### Expanding on Website Idea
 
+---
 
 Workout Tracker
 Many people that either go to the gym or workout on their own tend to follow a certain routine that helps them achieve their goal. Although they could track their progress manually, this website would assist them in having an easy to use tracker that will display information related to how they did their workout.
