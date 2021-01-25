@@ -11,7 +11,6 @@ Jan 12, 2021
 
 ---
 
-Workout Tracker
 Many people that either go to the gym or workout on their own tend to follow a certain routine that helps them achieve their goal. Although they could track their progress manually, this website would assist them in having an easy to use tracker that will display information related to how they did their workout.
 This website will allow the user to keep track of different exercises that they do during their workouts. This will help those that wish to stay on a specific schedule or be able to view their progress. 
 
