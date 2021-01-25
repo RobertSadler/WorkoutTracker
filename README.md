@@ -3,7 +3,7 @@ A document detailing a future project for tracking workouts
 Robert Sadler
 Jan 12, 2021
 
-# Project Step 2
+### Project Step 2
 ### Expanding on Website Idea
 
 ---
