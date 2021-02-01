@@ -50,3 +50,5 @@ An ability to add a variable that represents calories burned that will be calcul
 
 
 This website is intended to be used in order to track and help schedule workout schedules and to help show progress. Users will be able to input different values of their workouts into the database and be able to track their progress within their profile.
+
+[Database Diagram](WorkoutTracker.pdf)
